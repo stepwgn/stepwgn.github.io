@@ -1,7 +1,7 @@
 site_name: Honda Stepwgn
 
 nav:
-  - Главная: dashboard.md
+  - Главная: index.md
   - Комплектации: configurations.md
   - Обслуживание:
       - Двигатель: service/engine.md
