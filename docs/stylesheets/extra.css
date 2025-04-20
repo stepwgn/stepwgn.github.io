@@ -1,0 +1,4 @@
+.md-typeset [data-clipboard-text] {
+    color: #717171;
+    cursor: pointer;
+}
