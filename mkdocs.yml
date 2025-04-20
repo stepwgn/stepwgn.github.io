@@ -24,6 +24,9 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
 
+extra:
+  generator: false
+
 extra_css:
   - stylesheets/extra.css
 
