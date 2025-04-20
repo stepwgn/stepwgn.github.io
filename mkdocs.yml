@@ -1,0 +1,43 @@
+site_name: Honda Stepwgn
+
+nav:
+  - Главная: dashboard.md
+  - Комплектации: configurations.md
+  - Обслуживание:
+      - Двигатель: service/engine.md
+      - Фильтр салона: service/cabin-filter.md
+      - Вариатор: service/variator.md
+      - Тормозная система: service/brake-system.md
+      - Топливная система: service/fuel-system.md
+      - Электрика: service/electricity.md
+      - Колеса и диски: service/wheels.md
+      - Прочее: service/consumables.md
+  - Полезные файлы: downloads.md
+
+theme:
+  name: material
+  language: ru
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - content.footnote.tooltips
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
