@@ -1,4 +1,28 @@
-.md-typeset [data-clipboard-text] {
-    color: #717171;
+.copyable {
+    position: relative;
+    padding-left: 20px; /* Место для иконки */
+    color: #0066cc;
     cursor: pointer;
+}
+
+.copyable::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 14px;
+    height: 14px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230066cc'%3E%3Cpath d='M19 21H8V7h11m0-2H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m-3-4H4a2 2 0 0 0-2 2v14h2V3h12V1z'/%3E%3C/svg%3E");
+    background-size: contain;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+}
+
+.copyable:hover {
+    background-color: #f0f0f0;
+}
+
+.copyable-word:hover::before {
+    opacity: 1;
 }
