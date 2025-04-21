@@ -3,6 +3,7 @@
     padding-left: 20px; /* Место для иконки */
     color: #0066cc;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 .copyable::before {
