@@ -1,7 +1,28 @@
+.telegram-link {
+    position: relative;
+    padding-left: 24px; /* Место для иконки */
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.telegram-link::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20496%20512%22%20fill%3D%22%23003fab%22%3E%3C%21--%21%20Font%20Awesome%20Free%206.7.2%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20%28Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License%29%20Copyright%202024%20Fonticons%2C%20Inc.--%3E%3Cpath%20d%3D%22M248%208C111.033%208%200%20119.033%200%20256s111.033%20248%20248%20248%20248-111.033%20248-248S384.967%208%20248%208m114.952%20168.66c-3.732%2039.215-19.881%20134.378-28.1%20178.3-3.476%2018.584-10.322%2024.816-16.948%2025.425-14.4%201.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25%205.342-39.5%203.652-3.793%2067.107-61.51%2068.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608%2069.142-14.845%2010.194-26.894%209.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7%2018.45-13.7%20108.446-47.248%20144.628-62.3c68.872-28.647%2083.183-33.623%2092.511-33.789%202.052-.034%206.639.474%209.61%202.885a10.45%2010.45%200%200%201%203.53%206.716%2043.8%2043.8%200%200%201%20.417%209.769%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.6;
+    transition: opacity 0.2s;
+}
+
 .copyable {
     position: relative;
     padding-left: 20px; /* Место для иконки */
-    color: #0066cc;
     cursor: pointer;
     white-space: nowrap;
 }
@@ -15,6 +36,7 @@
     width: 14px;
     height: 14px;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230066cc'%3E%3Cpath d='M19 21H8V7h11m0-2H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m-3-4H4a2 2 0 0 0-2 2v14h2V3h12V1z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
     background-size: contain;
     opacity: 0.6;
     transition: opacity 0.2s;
