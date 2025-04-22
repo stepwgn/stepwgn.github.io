@@ -23,6 +23,7 @@ theme:
     - content.code.copy
     - content.footnote.tooltips
     - content.tooltips
+    - navigation.footer
 
 extra:
   generator: false
@@ -34,6 +35,8 @@ extra_javascript:
   - javascripts/extra.js
 
 plugins:
+  - git-revision-date-localized:
+      type: timeago
   - search
 
 markdown_extensions:
