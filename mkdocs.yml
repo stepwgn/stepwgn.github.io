@@ -37,6 +37,9 @@ extra_javascript:
 plugins:
   - git-revision-date-localized:
       type: timeago
+      timezone: Europe/Moscow
+      exclude:
+        - index.md
   - search
 
 markdown_extensions:
