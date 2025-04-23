@@ -26,6 +26,9 @@ theme:
     - navigation.footer
 
 extra:
+  analytics:
+    provider: google
+    property: G-KLZQKM471D
   generator: false
 
 extra_css:
