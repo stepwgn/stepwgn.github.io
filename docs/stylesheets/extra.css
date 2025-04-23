@@ -87,3 +87,10 @@
 .copyable-word:hover::before {
     opacity: 1;
 }
+
+.md-tooltip {
+    top: inherit;
+    left: inherit;
+    margin-left: 12px;
+    margin-top: 7px;
+}
