@@ -2,14 +2,15 @@ site_name: Honda Stepwgn
 
 nav:
   - Главная: index.md
-  - Комплектации: configurations.md
-  - Обслуживание:
-      - Запчасти и расходники: service/parts.md
-      - Двигатель: service/engine.md
-      - Вариатор: service/variator.md
-      - Тормозная система: service/brake-system.md
-      - Колеса и диски: service/wheels.md
-  - Полезные файлы: downloads.md
+  - 5 поколение (RP1-5):
+      - Комплектации: 5g/configurations.md
+      - Обслуживание:
+          - Запчасти и расходники: 5g/service/parts.md
+          - Двигатель: 5g/service/engine.md
+          - Вариатор: 5g/service/variator.md
+          - Тормозная система: 5g/service/brake-system.md
+          - Колеса и диски: 5g/service/wheels.md
+      - Полезные файлы: 5g/downloads.md
 
 theme:
   name: material
