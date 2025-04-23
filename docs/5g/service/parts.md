@@ -140,16 +140,11 @@
 
 === "RP1/2/3/4"
 
-| Наименование     | Артикул                                          | 
-|------------------|--------------------------------------------------|
-| **Шланг левый**  |                                                  |
-| Honda            | [01468TAA000](#"Honda 01468TAA000"){ .copyable } |
-| Miyaco           | [BH-H325](#"Miyaco BHH325"){ .copyable }         |
-| Miyaco           | [BH-H373](#"Miyaco BHH373"){ .copyable }         |
-| **Шланг правый** |                                                  |
-| Honda            | [01466TAA000](#"Honda 01466TAA000"){ .copyable } |
-| Miyaco           | [BH-H323](#"Miyaco BHH323"){ .copyable }         |
-| Miyaco           | [BH-H374](#"Miyaco BHH374"){ .copyable }         |
+| Наименование          | Артикул                                                                                             | 
+|-----------------------|-----------------------------------------------------------------------------------------------------|
+| Honda (левый/правый)  | [01468TAA000](#"Honda 01468TAA000"){ .copyable } / [01466TAA000](#"Honda 01466TAA000"){ .copyable } |
+| Miyaco (левый/правый) | [BH-H325](#"Miyaco BHH325"){ .copyable } / [BH-H323](#"Miyaco BHH323"){ .copyable }                 |
+| Miyaco (левый/правый) | [BH-H373](#"Miyaco BHH373"){ .copyable } / [BH-H374](#"Miyaco BHH374"){ .copyable }                 |
 
 !!! info ""
 
