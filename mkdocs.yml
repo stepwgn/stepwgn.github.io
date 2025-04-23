@@ -10,7 +10,8 @@ nav:
           - Вариатор: 5g/service/variator.md
           - Тормозная система: 5g/service/brake-system.md
           - Колеса и диски: 5g/service/wheels.md
-      - Полезные файлы: 5g/downloads.md
+      - Руководства: 5g/downloads.md
+  - Полезные ссылки: links.md
 
 theme:
   name: material
