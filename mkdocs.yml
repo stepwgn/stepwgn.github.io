@@ -4,14 +4,11 @@ nav:
   - Главная: index.md
   - Комплектации: configurations.md
   - Обслуживание:
+      - Запчасти и расходники: service/parts.md
       - Двигатель: service/engine.md
-      - Фильтр салона: service/cabin-filter.md
       - Вариатор: service/variator.md
       - Тормозная система: service/brake-system.md
-      - Топливная система: service/fuel-system.md
-      - Электрика: service/electricity.md
       - Колеса и диски: service/wheels.md
-      - Прочее: service/consumables.md
   - Полезные файлы: downloads.md
 
 theme:
@@ -40,6 +37,7 @@ plugins:
       timezone: Europe/Moscow
       exclude:
         - index.md
+  - include-markdown
   - search
 
 markdown_extensions:
