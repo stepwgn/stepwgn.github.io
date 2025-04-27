@@ -1,5 +1,6 @@
 site_name: Honda Stepwgn
 site_description: База знаний Honda Stepwgn RP1, RP2, RP3, RP4, RP5
+site_url: https://stepwgn.github.io/
 
 nav:
   - Главная: index.md
@@ -20,7 +21,7 @@ theme:
   custom_dir: overrides
   language: ru
   logo: assets/logo.png
-  favicon: assets/favicon.ico
+  favicon: /assets/favicon.ico
   features:
     - content.code.copy
     - content.footnote.tooltips
