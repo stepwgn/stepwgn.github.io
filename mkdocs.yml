@@ -17,6 +17,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   logo: assets/logo.png
   favicon: assets/favicon.ico
