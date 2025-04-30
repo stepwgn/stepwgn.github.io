@@ -94,3 +94,13 @@
     margin-left: 12px;
     margin-top: 7px;
 }
+
+div.bc-menu {
+    font-size: .42rem;
+    color: white;
+    background-color: #50505F;
+    text-align: center;
+    position: relative;
+    width: 130px;
+    margin: 0 auto;
+}
