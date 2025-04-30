@@ -15,6 +15,7 @@ jobs:
           fetch-depth: 0
           sparse-checkout: |
             docs
+            includes
             overrides
 
       - name: Set up Python
