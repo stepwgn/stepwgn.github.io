@@ -24,7 +24,7 @@ theme:
   custom_dir: overrides
   language: ru
   logo: assets/logo.png
-  favicon: /favicon.ico
+  favicon: /icons/favicon.ico
   features:
     - content.code.copy
     - content.footnote.tooltips
