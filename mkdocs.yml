@@ -51,6 +51,7 @@ plugins:
         - index.md
   - include-markdown
   - search
+  - social
 
 markdown_extensions:
   - abbr
