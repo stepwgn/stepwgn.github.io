@@ -96,11 +96,11 @@
 }
 
 div.bc-menu {
-    font-size: .42rem;
+    font-size: .56rem;
     color: white;
     background-color: #50505F;
     text-align: center;
     position: relative;
-    width: 130px;
+    width: 120px;
     margin: 0 auto;
 }
