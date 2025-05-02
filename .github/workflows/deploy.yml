@@ -23,10 +23,18 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install dependencies
-        run: pip install mkdocs mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-include-markdown-plugin "mkdocs-material[imaging]"
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
 
-      - name: Build and Deploy
+      - name: Install Workbox and python dependencies
+        run: npm ci
+
+      - name: Generate Service Worker with Workbox
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

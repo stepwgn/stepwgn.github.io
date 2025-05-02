@@ -8,3 +8,14 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png"/>
 <link rel="manifest" href="/site.webmanifest"/>
 {% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script>
+    if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+            navigator.serviceWorker.register("/sw.js");
+        });
+    }
+</script>
+{% endblock %}
