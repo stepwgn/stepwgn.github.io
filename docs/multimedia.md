@@ -1,3 +1,7 @@
+---
+description: Инструкции, руководства пользователя и советы по мультимедиа системам для Honda Stepwgn
+---
+
 ## Распиновки
 
 [Распиновки популярных ГУ от Gathers](https://odysseyclubrc.ru/connectordescription){ target="_blank".web-link }
