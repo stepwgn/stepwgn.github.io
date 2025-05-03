@@ -7,7 +7,6 @@
     "postinstall": "pip install mkdocs mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-include-markdown-plugin \"mkdocs-material[imaging]\"",
     "build": "mkdocs build && npx workbox generateSW workbox-config.js",
     "start": "mkdocs serve",
-    "start-pwa": "npm run build && python3 -m http.server 8000 --directory site/",
     "deploy": "gh-pages -d site"
   }
 }
