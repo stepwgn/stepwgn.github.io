@@ -6,23 +6,21 @@ description: Расходники, запчасти, варианты анало
 
 ### Моторное масло и фильтр
 
-| Наименование                          | Артикул                                              |
-|---------------------------------------|------------------------------------------------------|
-| **Масло моторное**                    |                                                      |
-| Honda Ultra Green 0W-16, 4л           | [08216-99974](#"Honda 0821699974"){ .copyable }      |
-| Honda Ultra Next 0W-7.5, 4л           | [08215-99974](#"Honda 0821599974"){ .copyable }      |
-| Honda Ultra Leo SN 0W-20, 4л          | [08217-99974](#"Honda 0821799974"){ .copyable }      |
-| Honda Ultra LTD SN 5W-30, 4л          | [08218-99974](#"Honda 0821899974"){ .copyable }      |
-| Honda 0W-20 Type 2.0, 1л              | [08232P99K1LHE](#"Honda 08232P99K1LHE"){ .copyable } |
-| Honda 0W-20 Type 2.0, 4л              | [08232P99K4LHE](#"Honda 08232P99K4LHE"){ .copyable } |
-| Idemitsu Zepro Eco Medalist 0W-20, 4л | [3583-004](#"Idemitsu 3583-004"){ .copyable }        |
-| **Масляный фильтр**                   |                                                      | 
-| Honda                                 | [15400-RTA-003](#"Honda 15400-RTA-003"){ .copyable } | 
-| MANN-FILTER W 610/6                   | [W6106](#"MANN W6106"){ .copyable }                  | 
-| PIAA                                  | [AH8](#"PIAA AH8"){ .copyable }                      | 
-| VIC                                   | [C809](#"VIC C809"){ .copyable }                     | 
-| **Шайба на сливную пробку масла ДВС** |                                                      |  
-| Honda                                 | [94109-140-00](#"Honda 94109-140-00"){ .copyable }   |
+| Наименование                                 | Артикул                                              |
+|----------------------------------------------|------------------------------------------------------|
+| **Масло моторное**                           |                                                      |
+| Honda Ultra Leo SN 0W-20 (рекомендуемое), 4л | [08217-99974](#"Honda 0821799974"){ .copyable }      |
+| Honda Ultra LTD SN 5W-30 (рекомендуемое), 4л | [08218-99974](#"Honda 0821899974"){ .copyable }      |
+| Honda 0W-20 Type 2.0, 1л                     | [08232P99K1LHE](#"Honda 08232P99K1LHE"){ .copyable } |
+| Honda 0W-20 Type 2.0, 4л                     | [08232P99K4LHE](#"Honda 08232P99K4LHE"){ .copyable } |
+| Idemitsu Zepro Eco Medalist 0W-20, 4л        | [3583-004](#"Idemitsu 3583-004"){ .copyable }        |
+| **Масляный фильтр**                          |                                                      | 
+| Honda                                        | [15400-RTA-003](#"Honda 15400-RTA-003"){ .copyable } | 
+| MANN-FILTER W 610/6                          | [W6106](#"MANN W6106"){ .copyable }                  | 
+| PIAA                                         | [AH8](#"PIAA AH8"){ .copyable }                      | 
+| VIC                                          | [C809](#"VIC C809"){ .copyable }                     | 
+| **Шайба на сливную пробку масла ДВС**        |                                                      |  
+| Honda                                        | [94109-140-00](#"Honda 94109-140-00"){ .copyable }   |
 
 <!--engine-oil-end-->
 
