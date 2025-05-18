@@ -30,6 +30,10 @@ theme:
     - content.footnote.tooltips
     - content.tooltips
     - navigation.footer
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - toc.follow
 
 extra:
   analytics:
