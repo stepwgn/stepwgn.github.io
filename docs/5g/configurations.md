@@ -1,5 +1,6 @@
 ---
 description: Информация по комплектациям Honda Stepwgn 5G
+comments: true
 ---
 
 # Комплектации Honda StepWGN 5-го поколения (RP1-5)

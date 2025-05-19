@@ -1,5 +1,6 @@
 ---
 description: Диагностика и настройка климат-контроля Honda Stepwgn 5G
+comments: true
 ---
 
 ## Диагностика

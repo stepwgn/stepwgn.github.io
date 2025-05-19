@@ -1,5 +1,6 @@
 ---
 description: Расходники, запчасти, варианты аналогов, артикулы запчастей для Honda Stepwgn 5G
+comments: true
 ---
 
 <!--engine-oil-start-->

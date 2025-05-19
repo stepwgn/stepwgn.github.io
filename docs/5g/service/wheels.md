@@ -1,5 +1,6 @@
 ---
 description: Размеры дисков и шин, варианты замены колес для Honda Stepwgn 5G
+comments: true
 ---
 
 ## Параметры дисков

@@ -1,5 +1,6 @@
 ---
 description: Замена масла в вариаторе и сопутствующие расходники Honda Stepwgn 5G
+comments: true
 ---
 
 ## Замена масла
