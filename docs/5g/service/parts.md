@@ -106,12 +106,35 @@ comments: true
 ### Колодки тормозные
 
 === "RP1/2/3/4"
-| Наименование | Артикул |
-|--------------------------------|------------------------------------------------------|
-| **Колодки тормозные передние** | |
-| Honda | [45022-T6A-J00](#"Honda 45022-T6A-J00"){ .copyable } |
-| **Колодки тормозные задние**   | |
-| Honda | [43022-TP6-A01](#"Honda 43022-TP6-A01"){ .copyable } |
+
+| Наименование                   | Артикул                                                 |
+|--------------------------------|---------------------------------------------------------|
+| **Колодки тормозные передние** |                                                         |
+| Honda                          | [45022-T6A-J00](#"Honda 45022-T6A-J00"){ .copyable }    |
+| Advics                         | [SN312P](#"Advics SN312P"){ .copyable }                 |
+| Akebono                        | [AN789WK](#"Akebono AN789WK"){ .copyable }              |
+| G-Brake                        | [GP05007](#"G-Brake GP05007"){ .copyable }              |
+| Kashiyama                      | [D5214M](#"Kashiyama D5214M"){ .copyable }              |
+| NiBK                           | [PN28005](#"NiBK PN28005"){ .copyable }                 |
+| Nisshinbo                      | [NP8026](#"Nisshinbo NP8026"){ .copyable }              |
+| Nissin                         | [NPO162W](#"Nissin NPO162W"){ .copyable }               |
+| Sangsin Brake                  | [SP1779/SP1779SD](#"Sangsin Brake SP1779"){ .copyable } |
+| **Колодки тормозные задние**   |                                                         |
+| Honda                          | [43022-TP6-A01](#"Honda 43022-TP6-A01"){ .copyable }    |
+| Advics                         | [SN598P]("#Advics SN598P"){ .copyable }                 |
+| Advics                         | [SN426P]("#Advics SN426P"){ .copyable }                 |
+| Akebono                        | [AN684WK]("#Akebono AN684WK"){ .copyable }              |
+| Akebono                        | [AN359WK]("#Akebono AN359WK"){ .copyable }              |
+| G-Brake                        | [GP05004]("#G-Brake GP05004"){ .copyable }              |
+| Icer                           | [181187]("#Icer 181187"){ .copyable }                   |
+| Kashiyama                      | [D5066MH]("#Kashiyama D5066MH"){ .copyable }            |
+| NiBK                           | [PN8807]("#NiBK PN8807"){ .copyable }                   |
+| Nisshinbo                      | [NP8037]("#Nisshinbo NP8037"){ .copyable }              |
+| Nissin                         | [NPO125WSA]("#Nissin NPO125WSA"){ .copyable }           |
+| Nissin                         | [NPO143WSA]("#Nissin NPO143WSA"){ .copyable }           |
+| Remsa                          | [32504]("#Remsa 32504"){ .copyable }                    |
+| Sangsin Brake                  | [SP2116]("#Sangsin Brake SP2116"){ .copyable }          |
+| Sangsin Brake                  | [SP1076R]("#Sangsin Brake SP1076R"){ .copyable }        |
 
 ### Диски тормозные
 
