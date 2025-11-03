@@ -1,0 +1,34 @@
+with(document) {
+write("<v:group id=\"group8\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:475.00px; height:724.03px;\" coordsize=\"475.00,724.03\">");
+write("<v:rect id=\"rect8\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:475.00px;height:724.03px;\">");
+write("<img id=\"img8\" name=\"PrtImgId\" src=\"../img/48_3.0_jpn_15145755_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:475.00px;height:724.03px;border-color:#ffffff\">");
+write("</v:rect>");
+write("<p id=\"p8_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:168.058488px;top:644.712705px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(6)*</font></nobr>");
+write("</p>");
+write("<p id=\"p8_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:122.079088px;top:187.983214px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(16)</font></nobr>");
+write("</p>");
+write("<p id=\"p8_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:27.054994px;top:416.347960px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(3)* <br>L＝10</font></nobr>");
+write("</p>");
+write("<p id=\"p8_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:407.151369px;top:51.577427px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(3)* <br>L＝10</font></nobr>");
+write("</p>");
+write("<p id=\"p8_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:218.635829px;top:7.130597px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(1)* <br>L＝10</font></nobr>");
+write("</p>");
+write("<p id=\"p8_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:355.041382px;top:5.597948px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(1)* <br>L＝20</font></nobr>");
+write("</p>");
+write("<p id=\"p8_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:379.563729px;top:517.502813px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(1)* <br>L＝10</font></nobr>");
+write("</p>");
+write("<p id=\"p8_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:350.443442px;top:663.104497px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(4)*</font></nobr>");
+write("</p>");
+write("<p id=\"p8_9\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:264.615229px;top:638.582108px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr><font style=\"font-weight:normal;\">(4)</font></nobr>");
+write("</p>");
+write("</v:group>");
+}

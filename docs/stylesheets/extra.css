@@ -113,7 +113,21 @@ div.bc-menu {
     font-display: swap;
 }
 
-
 .seven-led {
     font-family: '7LED', sans-serif;
+}
+
+/* for html manuals */
+.md-typeset img[name="PrtImgId"] {
+    max-width: none !important;
+}
+
+#divBody {
+    overflow-x: auto;
+    min-height: 100vh;
+}
+
+p[name="PrtPId"] {
+    line-height: 1;
+    margin: 0;
 }
