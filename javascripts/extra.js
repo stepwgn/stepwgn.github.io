@@ -5,7 +5,7 @@ document.querySelectorAll('a.copyable').forEach(element => {
 
 // Для руководства:
 function createSpaceForAbsoluteElements() {
-    const absoluteElements = document.querySelectorAll('[style*="position:absolute"]');
+    const absoluteElements = document.querySelectorAll('img[style*="position:absolute"]');
     absoluteElements.forEach(element => {
         // Создаем невидимый блок-заглушку того же размера
         const spacer = document.createElement('div');
