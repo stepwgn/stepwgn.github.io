@@ -25,7 +25,7 @@ write("<p id=\"p1_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>(9)</nobr>");
 write("</p>");
 write("<p id=\"p1_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:60.666903px;top:448.339806px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>точечная сварка из 4 частей</nobr>");
+write("<nobr>Точечная сварка в 4 листа</nobr>");
 write("</p>");
 write("<p id=\"p1_9\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:395.663633px;top:110.085979px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
 write("<nobr>L＝190</nobr>");
@@ -40,13 +40,13 @@ write("<p id=\"p1_12\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;
 write("<nobr>(2)</nobr>");
 write("</p>");
 write("<p id=\"p1_13\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:12.476611px;top:511.972017px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Сварка MAG-электродом</nobr>");
+write("<nobr>MAG сварка в отверстие</nobr>");
 write("</p>");
 write("<p id=\"p1_14\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:336.649706px;top:764.253639px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
 write("<nobr>Пайка MIG</nobr>");
 write("</p>");
 write("<p id=\"p1_15\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:109.805624px;top:87.374410px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Сварка MAG</nobr>");
+write("<nobr>MAG сварка</nobr>");
 write("</p>");
 write("</div>");
 }
