@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:409.01px;\" coordsize=\"950.00,409.01\">");
-write("<v:rect id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:409.01px;\">");
+write("<div id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:409.01px;\" coordsize=\"950.00,409.01\">");
+write("<div id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:409.01px;\">");
 write("<img id=\"img1\" name=\"PrtImgId\" src=\"../img/25_3.0_jpn_15145857_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:409.01px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p1_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:237.949451px;top:6.779240px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"><img id=\"gi1\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00005.png\"></img></font></nobr>");
 write("</p>");
@@ -75,5 +75,5 @@ write("</p>");
 write("<p id=\"p1_24\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:511.019244px;top:6.779240px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Tailgate Comp (автомобили, оборудованные дополнительной дверью багажника)");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

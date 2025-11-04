@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
-write("<v:rect id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
+write("<div id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
+write("<div id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
 write("<img id=\"img1\" name=\"PrtImgId\" src=\"../img/99_2.0_jpn_15145731_2.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:1092.14px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p1_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:3.889593px;top:1.000000px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"На схеме изображен автомобиль с приводом на 2 колеса, размеры такие же, как и для автомобилей с полным приводом. Единица измерения: мм.");
 write("</p>");
@@ -126,15 +126,11 @@ write("</p>");
 write("<p id=\"p1_41\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:681.498982px;top:632.382175px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">E</font></nobr>");
 write("</p>");
-write("<v:line id=\"bl1_1\" from=\"102,722\" to=\"101,715\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_1\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"左\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:10.5pt;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_2\" from=\"102,882\" to=\"101,859\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_2\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"右\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:10.5pt;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\"/>");
-write("</v:line>");
-write("</v:group>");
+write("<svg xmlns=\"http://www.w3.org/2000/svg\" style=\"position:absolute; top:0; left:0; width:100%; height:100%;\">");
+write("<!-- bl1_1 -->");
+write("<text id=\"tp1_1\" x=\"101\" y=\"715\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"10.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 101, 715)\" dx=\"-10\" dy=\"3\">Лево</text>");
+write("<!-- bl1_2 -->");
+write("<text id=\"tp1_2\" x=\"101\" y=\"859\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"10.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 101, 859)\" dx=\"-40\" dy=\"3\">Право</text>");
+write("</svg>");
+write("</div>");
 }

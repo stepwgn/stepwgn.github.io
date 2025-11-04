@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group3\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:873.13px;\" coordsize=\"950.00,873.13\">");
-write("<v:rect id=\"rect3\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:873.13px;\">");
+write("<div id=\"group3\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:873.13px;\" coordsize=\"950.00,873.13\">");
+write("<div id=\"rect3\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:873.13px;\">");
 write("<img id=\"img3\" name=\"PrtImgId\" src=\"../img/74_3.0_jpn_15145828_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:873.13px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p3_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:47.234043px;top:525.467486px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Задняя нижняя рама D</font></nobr>");
 write("</p>");
@@ -33,5 +33,5 @@ write("</p>");
 write("<p id=\"p3_10\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:337.641626px;top:297.186873px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Задняя внутренняя <br>Стойка нижняя</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }
