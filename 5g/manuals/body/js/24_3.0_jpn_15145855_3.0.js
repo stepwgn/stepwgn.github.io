@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group3\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:928.24px;\" coordsize=\"950.00,928.24\">");
-write("<v:rect id=\"rect3\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:928.24px;\">");
+write("<div id=\"group3\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:928.24px;\" coordsize=\"950.00,928.24\">");
+write("<div id=\"rect3\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:928.24px;\">");
 write("<img id=\"img3\" name=\"PrtImgId\" src=\"../img/24_3.0_jpn_15145855_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:928.24px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p3_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:81.909569px;top:289.963605px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">8x1,25 мм<br>Крутящий момент 22 Н·м<br>(2,2 кгс·м)</font></nobr>");
 write("</p>");
@@ -36,5 +36,5 @@ write("</p>");
 write("<p id=\"p3_11\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:665.614312px;top:859.221934px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">6x1,0 мм<br>Крутящий момент 9,3 Н·м<br>(0,95 кгс·м)</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

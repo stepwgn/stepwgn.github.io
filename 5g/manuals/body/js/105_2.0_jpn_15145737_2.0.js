@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:546.07px;\" coordsize=\"950.00,546.07\">");
-write("<v:rect id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:546.07px;\">");
+write("<div id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:546.07px;\" coordsize=\"950.00,546.07\">");
+write("<div id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:546.07px;\">");
 write("<img id=\"img1\" name=\"PrtImgId\" src=\"../img/105_2.0_jpn_15145737_2.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:546.07px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p1_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:15.959436px;top:9.485066px;font-weight:normal;font-size:4.5pt;color:black;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Единица: мм/φ: диаметр отверстия</font></nobr>");
 write("</p>");
@@ -186,375 +186,230 @@ write("</p>");
 write("<p id=\"p1_61\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:709.558962px;top:29.169229px;font-weight:normal;font-size:4.5pt;color:black;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">p вправо<br>p влево<br>q<br>r<br>s вправо<br>s влево<br>t<br>u вправо<br>u влево<br>v<br>w</ br> шрифт></nobr>");
 write("</p>");
-write("<v:line id=\"bl1_1\" from=\"57,465\" to=\"56,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_1\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"536\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_2\" from=\"46,464\" to=\"45,452\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_2\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"660\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_3\" from=\"67,465\" to=\"66,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_3\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"473\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_4\" from=\"78,465\" to=\"77,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_4\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"430\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_5\" from=\"88,465\" to=\"87,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_5\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"333\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_6\" from=\"97,465\" to=\"96,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_6\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"307\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_7\" from=\"107,465\" to=\"106,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_7\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"306\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_8\" from=\"127,492\" to=\"126,484\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_8\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"18\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_9\" from=\"258,495\" to=\"257,487\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_9\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"25\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_10\" from=\"787,451\" to=\"786,439\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_10\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"415\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_11\" from=\"777,465\" to=\"776,453\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_11\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"258\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_12\" from=\"767,459\" to=\"766,455\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_12\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_13\" from=\"343,501\" to=\"342,493\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_13\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"18\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_14\" from=\"361,496\" to=\"360,492\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_14\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"8\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_15\" from=\"408,497\" to=\"407,493\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_15\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"6\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_16\" from=\"455,499\" to=\"454,491\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_16\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"18\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_17\" from=\"570,494\" to=\"569,486\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_17\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"30\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_18\" from=\"583,499\" to=\"582,487\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_18\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"143\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_19\" from=\"597,494\" to=\"596,486\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_19\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"55\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_20\" from=\"611,494\" to=\"610,486\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_20\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"23\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_21\" from=\"629,494\" to=\"628,486\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_21\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"71\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_22\" from=\"655,499\" to=\"654,488\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_22\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"111\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_23\" from=\"681,494\" to=\"680,486\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_23\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"94\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_24\" from=\"447,444\" to=\"446,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_24\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"40\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_25\" from=\"486,444\" to=\"485,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_25\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"73\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_26\" from=\"496,444\" to=\"495,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_26\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"77\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_27\" from=\"514,444\" to=\"513,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_27\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"10\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_28\" from=\"525,444\" to=\"524,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_28\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"36\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_29\" from=\"535,444\" to=\"534,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_29\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"38\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_30\" from=\"546,444\" to=\"545,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_30\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"38\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_31\" from=\"433,444\" to=\"432,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_31\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"27\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_32\" from=\"419,444\" to=\"418,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_32\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"95\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_33\" from=\"376,449\" to=\"375,437\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_33\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"100\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_34\" from=\"352,444\" to=\"351,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_34\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"97\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_35\" from=\"308,439\" to=\"307,431\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_35\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"64\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_36\" from=\"576,515\" to=\"575,507\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_36\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"n5\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_37\" from=\"588,515\" to=\"587,511\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_37\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"q\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_38\" from=\"601,514\" to=\"600,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_38\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"n3\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_39\" from=\"616,514\" to=\"615,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_39\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"n2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_40\" from=\"633,514\" to=\"632,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_40\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"n4\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_41\" from=\"659,534\" to=\"658,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_41\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"s右、s左\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_42\" from=\"684,510\" to=\"683,507\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_42\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"v\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_43\" from=\"790,414\" to=\"789,406\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_43\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"o2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_44\" from=\"780,436\" to=\"779,428\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_44\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"o3\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_45\" from=\"771,493\" to=\"770,483\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_45\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"m2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_46\" from=\"262,525\" to=\"261,508\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_46\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"a2、g\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_47\" from=\"348,512\" to=\"347,507\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_47\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"j1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_48\" from=\"365,509\" to=\"364,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_48\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"k\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_49\" from=\"412,508\" to=\"411,506\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_49\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"t\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_50\" from=\"460,512\" to=\"459,507\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_50\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"j2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_51\" from=\"449,422\" to=\"448,421\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_51\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"l\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_52\" from=\"488,422\" to=\"487,414\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_52\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"p左\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_53\" from=\"501,422\" to=\"500,406\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_53\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"p右\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_54\" from=\"517,422\" to=\"516,414\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_54\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"n1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_55\" from=\"528,421\" to=\"527,419\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_55\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"r\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_56\" from=\"538,422\" to=\"537,406\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_56\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"u右\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_57\" from=\"436,421\" to=\"435,416\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_57\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"w\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_58\" from=\"422,423\" to=\"421,415\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_58\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"h4\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_59\" from=\"382,422\" to=\"381,414\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_59\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"h3\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_60\" from=\"354,422\" to=\"353,414\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_60\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"h2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_61\" from=\"311,423\" to=\"310,415\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_61\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"h1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_62\" from=\"131,507\" to=\"130,499\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_62\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"a1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_63\" from=\"57,416\" to=\"56,408\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_63\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"d1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_64\" from=\"46,395\" to=\"45,391\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_64\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"e\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_65\" from=\"67,423\" to=\"66,415\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_65\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"d2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_66\" from=\"78,429\" to=\"77,422\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_66\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"c3\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_67\" from=\"93,512\" to=\"92,478\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_67\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"b1、b2、b3\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_68\" from=\"97,443\" to=\"96,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_68\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"c2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_69\" from=\"107,443\" to=\"106,436\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_69\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"c1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_70\" from=\"298,502\" to=\"297,494\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_70\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"32\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_71\" from=\"302,526\" to=\"301,509\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_71\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"f1、f2\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_72\" from=\"549,422\" to=\"548,414\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_72\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"u左\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_73\" from=\"572,346\" to=\"571,338\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_73\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"o1\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("<v:line id=\"bl1_74\" from=\"567,377\" to=\"566,365\" strokecolor=\"black\">");
-write("<v:fill on=\"true\" color=\"black\"/>");
-write("<v:path textpathok=\"true\"/>");
-write("<v:textpath id=\"tp1_74\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"336\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
-write("</v:line>");
-write("</v:group>");
+write("<svg xmlns=\"http://www.w3.org/2000/svg\" style=\"position:absolute; top:0; left:0; width:100%; height:100%;\">");
+
+write("<!-- bl1_1 -->");
+write("<text id=\"tp1_1\" x=\"56\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 56, 453)\" dx=\"-10\" dy=\"1\">536</text>");
+
+write("<!-- bl1_2 -->");
+write("<text id=\"tp1_2\" x=\"45\" y=\"452\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 45, 452)\" dx=\"-10\" dy=\"1\">660</text>");
+
+write("<!-- bl1_3 -->");
+write("<text id=\"tp1_3\" x=\"66\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 66, 453)\" dx=\"-10\" dy=\"1\">473</text>");
+
+write("<!-- bl1_4 -->");
+write("<text id=\"tp1_4\" x=\"77\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 77, 453)\" dx=\"-10\" dy=\"1\">430</text>");
+
+write("<!-- bl1_5 -->");
+write("<text id=\"tp1_5\" x=\"87\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 87, 453)\" dx=\"-10\" dy=\"1\">333</text>");
+
+write("<!-- bl1_6 -->");
+write("<text id=\"tp1_6\" x=\"96\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 96, 453)\" dx=\"-10\" dy=\"1\">307</text>");
+
+write("<!-- bl1_7 -->");
+write("<text id=\"tp1_7\" x=\"106\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 106, 453)\" dx=\"-10\" dy=\"1\">306</text>");
+
+write("<!-- bl1_8 -->");
+write("<text id=\"tp1_8\" x=\"126\" y=\"484\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 126, 484)\" dx=\"-10\" dy=\"1\">18</text>");
+
+write("<!-- bl1_9 -->");
+write("<text id=\"tp1_9\" x=\"257\" y=\"487\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 257, 487)\" dx=\"-10\" dy=\"1\">25</text>");
+
+write("<!-- bl1_10 -->");
+write("<text id=\"tp1_10\" x=\"786\" y=\"439\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 786, 439)\" dx=\"-10\" dy=\"1\">415</text>");
+
+write("<!-- bl1_11 -->");
+write("<text id=\"tp1_11\" x=\"776\" y=\"453\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 776, 453)\" dx=\"-10\" dy=\"1\">258</text>");
+
+write("<!-- bl1_12 -->");
+write("<text id=\"tp1_12\" x=\"766\" y=\"455\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 766, 455)\" dx=\"-10\" dy=\"1\">2</text>");
+
+write("<!-- bl1_13 -->");
+write("<text id=\"tp1_13\" x=\"342\" y=\"493\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 342, 493)\" dx=\"-10\" dy=\"1\">18</text>");
+
+write("<!-- bl1_14 -->");
+write("<text id=\"tp1_14\" x=\"360\" y=\"492\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 360, 492)\" dx=\"-10\" dy=\"1\">8</text>");
+
+write("<!-- bl1_15 -->");
+write("<text id=\"tp1_15\" x=\"407\" y=\"493\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 407, 493)\" dx=\"-10\" dy=\"1\">6</text>");
+
+write("<!-- bl1_16 -->");
+write("<text id=\"tp1_16\" x=\"454\" y=\"491\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 454, 491)\" dx=\"-10\" dy=\"1\">18</text>");
+
+write("<!-- bl1_17 -->");
+write("<text id=\"tp1_17\" x=\"569\" y=\"486\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 569, 486)\" dx=\"-10\" dy=\"1\">30</text>");
+
+write("<!-- bl1_18 -->");
+write("<text id=\"tp1_18\" x=\"582\" y=\"487\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 582, 487)\" dx=\"-10\" dy=\"1\">143</text>");
+
+write("<!-- bl1_19 -->");
+write("<text id=\"tp1_19\" x=\"596\" y=\"486\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 596, 486)\" dx=\"-10\" dy=\"1\">55</text>");
+
+write("<!-- bl1_20 -->");
+write("<text id=\"tp1_20\" x=\"610\" y=\"486\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 610, 486)\" dx=\"-10\" dy=\"1\">23</text>");
+
+write("<!-- bl1_21 -->");
+write("<text id=\"tp1_21\" x=\"628\" y=\"486\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 628, 486)\" dx=\"-10\" dy=\"1\">71</text>");
+
+write("<!-- bl1_22 -->");
+write("<text id=\"tp1_22\" x=\"654\" y=\"488\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 654, 488)\" dx=\"-10\" dy=\"1\">111</text>");
+
+write("<!-- bl1_23 -->");
+write("<text id=\"tp1_23\" x=\"680\" y=\"486\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 680, 486)\" dx=\"-10\" dy=\"1\">94</text>");
+
+write("<!-- bl1_24 -->");
+write("<text id=\"tp1_24\" x=\"446\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 446, 436)\" dx=\"-10\" dy=\"1\">40</text>");
+
+write("<!-- bl1_25 -->");
+write("<text id=\"tp1_25\" x=\"485\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 485, 436)\" dx=\"-10\" dy=\"1\">73</text>");
+
+write("<!-- bl1_26 -->");
+write("<text id=\"tp1_26\" x=\"495\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 495, 436)\" dx=\"-10\" dy=\"1\">77</text>");
+
+write("<!-- bl1_27 -->");
+write("<text id=\"tp1_27\" x=\"513\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 513, 436)\" dx=\"-10\" dy=\"1\">10</text>");
+
+write("<!-- bl1_28 -->");
+write("<text id=\"tp1_28\" x=\"524\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 524, 436)\" dx=\"-10\" dy=\"1\">36</text>");
+
+write("<!-- bl1_29 -->");
+write("<text id=\"tp1_29\" x=\"534\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 534, 436)\" dx=\"-10\" dy=\"1\">38</text>");
+
+write("<!-- bl1_30 -->");
+write("<text id=\"tp1_30\" x=\"545\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 545, 436)\" dx=\"-10\" dy=\"1\">38</text>");
+
+write("<!-- bl1_31 -->");
+write("<text id=\"tp1_31\" x=\"432\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 432, 436)\" dx=\"-10\" dy=\"1\">27</text>");
+
+write("<!-- bl1_32 -->");
+write("<text id=\"tp1_32\" x=\"418\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 418, 436)\" dx=\"-10\" dy=\"1\">95</text>");
+
+write("<!-- bl1_33 -->");
+write("<text id=\"tp1_33\" x=\"375\" y=\"437\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 375, 437)\" dx=\"-10\" dy=\"1\">100</text>");
+
+write("<!-- bl1_34 -->");
+write("<text id=\"tp1_34\" x=\"351\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 351, 436)\" dx=\"-10\" dy=\"1\">97</text>");
+
+write("<!-- bl1_35 -->");
+write("<text id=\"tp1_35\" x=\"307\" y=\"431\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 307, 431)\" dx=\"-10\" dy=\"1\">64</text>");
+
+write("<!-- bl1_36 -->");
+write("<text id=\"tp1_36\" x=\"575\" y=\"507\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 575, 507)\" dx=\"-10\" dy=\"1\">n5</text>");
+
+write("<!-- bl1_37 -->");
+write("<text id=\"tp1_37\" x=\"587\" y=\"511\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 587, 511)\" dx=\"-10\" dy=\"1\">q</text>");
+
+write("<!-- bl1_38 -->");
+write("<text id=\"tp1_38\" x=\"600\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 600, 506)\" dx=\"-10\" dy=\"1\">n3</text>");
+
+write("<!-- bl1_39 -->");
+write("<text id=\"tp1_39\" x=\"615\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 615, 506)\" dx=\"-10\" dy=\"1\">n2</text>");
+
+write("<!-- bl1_40 -->");
+write("<text id=\"tp1_40\" x=\"632\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 632, 506)\" dx=\"-10\" dy=\"1\">n4</text>");
+
+write("<!-- bl1_41 -->");
+write("<text id=\"tp1_41\" x=\"658\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 658, 506)\" dx=\"-10\" dy=\"1\">sПравый, sЛевый</text>");
+
+write("<!-- bl1_42 -->");
+write("<text id=\"tp1_42\" x=\"683\" y=\"507\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 683, 507)\" dx=\"-10\" dy=\"1\">v</text>");
+
+write("<!-- bl1_43 -->");
+write("<text id=\"tp1_43\" x=\"789\" y=\"406\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 789, 406)\" dx=\"-10\" dy=\"1\">o2</text>");
+
+write("<!-- bl1_44 -->");
+write("<text id=\"tp1_44\" x=\"779\" y=\"428\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 779, 428)\" dx=\"-10\" dy=\"1\">o3</text>");
+
+write("<!-- bl1_45 -->");
+write("<text id=\"tp1_45\" x=\"770\" y=\"483\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 770, 483)\" dx=\"-10\" dy=\"1\">m2</text>");
+
+write("<!-- bl1_46 -->");
+write("<text id=\"tp1_46\" x=\"261\" y=\"508\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 261, 508)\" dx=\"-10\" dy=\"1\">a2, g</text>");
+
+write("<!-- bl1_47 -->");
+write("<text id=\"tp1_47\" x=\"347\" y=\"507\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 347, 507)\" dx=\"-10\" dy=\"1\">j1</text>");
+
+write("<!-- bl1_48 -->");
+write("<text id=\"tp1_48\" x=\"364\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 364, 506)\" dx=\"-10\" dy=\"1\">k</text>");
+
+write("<!-- bl1_49 -->");
+write("<text id=\"tp1_49\" x=\"411\" y=\"506\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 411, 506)\" dx=\"-10\" dy=\"1\">t</text>");
+
+write("<!-- bl1_50 -->");
+write("<text id=\"tp1_50\" x=\"459\" y=\"507\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 459, 507)\" dx=\"-10\" dy=\"1\">j2</text>");
+
+write("<!-- bl1_51 -->");
+write("<text id=\"tp1_51\" x=\"448\" y=\"421\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 448, 421)\" dx=\"-10\" dy=\"1\">l</text>");
+
+write("<!-- bl1_52 -->");
+write("<text id=\"tp1_52\" x=\"487\" y=\"414\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 487, 414)\" dx=\"-10\" dy=\"1\">pЛевый</text>");
+
+write("<!-- bl1_53 -->");
+write("<text id=\"tp1_53\" x=\"500\" y=\"406\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 500, 406)\" dx=\"-10\" dy=\"1\">pПравый</text>");
+
+write("<!-- bl1_54 -->");
+write("<text id=\"tp1_54\" x=\"516\" y=\"414\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 516, 414)\" dx=\"-10\" dy=\"1\">n1</text>");
+
+write("<!-- bl1_55 -->");
+write("<text id=\"tp1_55\" x=\"527\" y=\"419\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 527, 419)\" dx=\"-10\" dy=\"1\">r</text>");
+
+write("<!-- bl1_56 -->");
+write("<text id=\"tp1_56\" x=\"537\" y=\"406\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 537, 406)\" dx=\"-10\" dy=\"1\">uПравый</text>");
+
+write("<!-- bl1_57 -->");
+write("<text id=\"tp1_57\" x=\"435\" y=\"416\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 435, 416)\" dx=\"-10\" dy=\"1\">w</text>");
+
+write("<!-- bl1_58 -->");
+write("<text id=\"tp1_58\" x=\"421\" y=\"415\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 421, 415)\" dx=\"-10\" dy=\"1\">h4</text>");
+
+write("<!-- bl1_59 -->");
+write("<text id=\"tp1_59\" x=\"381\" y=\"414\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 381, 414)\" dx=\"-10\" dy=\"1\">h3</text>");
+
+write("<!-- bl1_60 -->");
+write("<text id=\"tp1_60\" x=\"353\" y=\"414\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 353, 414)\" dx=\"-10\" dy=\"1\">h2</text>");
+
+write("<!-- bl1_61 -->");
+write("<text id=\"tp1_61\" x=\"310\" y=\"415\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 310, 415)\" dx=\"-10\" dy=\"1\">h1</text>");
+
+write("<!-- bl1_62 -->");
+write("<text id=\"tp1_62\" x=\"130\" y=\"499\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 130, 499)\" dx=\"-10\" dy=\"1\">a1</text>");
+
+write("<!-- bl1_63 -->");
+write("<text id=\"tp1_63\" x=\"56\" y=\"408\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 56, 408)\" dx=\"-10\" dy=\"1\">d1</text>");
+
+write("<!-- bl1_64 -->");
+write("<text id=\"tp1_64\" x=\"45\" y=\"391\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 45, 391)\" dx=\"-10\" dy=\"1\">e</text>");
+
+write("<!-- bl1_65 -->");
+write("<text id=\"tp1_65\" x=\"66\" y=\"415\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 66, 415)\" dx=\"-10\" dy=\"1\">d2</text>");
+
+write("<!-- bl1_66 -->");
+write("<text id=\"tp1_66\" x=\"77\" y=\"422\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 77, 422)\" dx=\"-10\" dy=\"1\">c3</text>");
+
+write("<!-- bl1_67 -->");
+write("<text id=\"tp1_67\" x=\"92\" y=\"478\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 92, 478)\" dx=\"-10\" dy=\"1\">b1, b2, b3</text>");
+
+write("<!-- bl1_68 -->");
+write("<text id=\"tp1_68\" x=\"96\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 96, 436)\" dx=\"-10\" dy=\"1\">c2</text>");
+
+write("<!-- bl1_69 -->");
+write("<text id=\"tp1_69\" x=\"106\" y=\"436\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 106, 436)\" dx=\"-10\" dy=\"1\">c1</text>");
+
+write("<!-- bl1_70 -->");
+write("<text id=\"tp1_70\" x=\"297\" y=\"494\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 297, 494)\" dx=\"-10\" dy=\"1\">32</text>");
+
+write("<!-- bl1_71 -->");
+write("<text id=\"tp1_71\" x=\"301\" y=\"509\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 301, 509)\" dx=\"-10\" dy=\"1\">f1, f2</text>");
+
+write("<!-- bl1_72 -->");
+write("<text id=\"tp1_72\" x=\"548\" y=\"414\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 548, 414)\" dx=\"-10\" dy=\"1\">uЛевый</text>");
+
+write("<!-- bl1_73 -->");
+write("<text id=\"tp1_73\" x=\"571\" y=\"338\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 571, 338)\" dx=\"-10\" dy=\"1\">o1</text>");
+
+write("<!-- bl1_74 -->");
+write("<text id=\"tp1_74\" x=\"566\" y=\"365\" font-family=\"Arial\" text-anchor=\"left\" font-size=\"4.5pt\" font-weight=\"normal\" transform=\"rotate(-90, 566, 365)\" dx=\"-10\" dy=\"1\">336</text>");
+
+write("</svg>");
+write("</div>");
 }

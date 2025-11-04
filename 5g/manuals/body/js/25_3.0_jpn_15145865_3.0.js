@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group9\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
-write("<v:rect id=\"rect9\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
+write("<div id=\"group9\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
+write("<div id=\"rect9\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
 write("<img id=\"img9\" name=\"PrtImgId\" src=\"../img/25_3.0_jpn_15145865_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:1092.14px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p9_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:756.637576px;top:13.521665px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"><img id=\"gi9\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00007.png\"></img></font></nobr>");
 write("</p>");
@@ -156,5 +156,5 @@ write("</p>");
 write("<p id=\"p9_51\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:573.146234px;top:685.838966px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Передняя рама пола<br>[1.8] 780<br>Передняя опора пола A <br>[1.0] 590<br>Переборка передней рамы пола <br>[1.0] 590<br>Передний кронштейн среднего сиденья <br> [ 1.2] 270");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group10\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:928.24px;\" coordsize=\"950.00,928.24\">");
-write("<v:rect id=\"rect10\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:928.24px;\">");
+write("<div id=\"group10\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:928.24px;\" coordsize=\"950.00,928.24\">");
+write("<div id=\"rect10\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:928.24px;\">");
 write("<img id=\"img10\" name=\"PrtImgId\" src=\"../img/25_3.0_jpn_15145866_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:928.24px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p10_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:769.640900px;top:227.834713px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"><img id=\"gi10\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00010.png\"></img></font></nobr>");
 write("</p>");
@@ -99,5 +99,5 @@ write("</p>");
 write("<p id=\"p10_32\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:682.952077px;top:695.952209px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">j</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group4\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:983.36px;\" coordsize=\"950.00,983.36\">");
-write("<v:rect id=\"rect4\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:983.36px;\">");
+write("<div id=\"group4\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:983.36px;\" coordsize=\"950.00,983.36\">");
+write("<div id=\"rect4\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:983.36px;\">");
 write("<img id=\"img4\" name=\"PrtImgId\" src=\"../img/24_3.0_jpn_15145856_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:983.36px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p4_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:288.517931px;top:63.127034px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">A</font></nobr>");
 write("</p>");
@@ -60,5 +60,5 @@ write("</p>");
 write("<p id=\"p4_19\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:191.715416px;top:956.022548px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">A</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

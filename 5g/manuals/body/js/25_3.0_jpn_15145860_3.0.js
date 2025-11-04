@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group4\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
-write("<v:rect id=\"rect4\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
+write("<div id=\"group4\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:1092.14px;\" coordsize=\"950.00,1092.14\">");
+write("<div id=\"rect4\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:1092.14px;\">");
 write("<img id=\"img4\" name=\"PrtImgId\" src=\"../img/25_3.0_jpn_15145860_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:1092.14px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p4_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:537.019368px;top:79.019766px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"><img id=\"gi4\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00011.png\"></img></font></nobr>");
 write("</p>");
@@ -135,5 +135,5 @@ write("</p>");
 write("<p id=\"p4_44\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:323.189539px;top:1044.153159px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">a</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

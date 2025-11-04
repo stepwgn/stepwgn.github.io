@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group5\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:847.02px;\" coordsize=\"950.00,847.02\">");
-write("<v:rect id=\"rect5\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:847.02px;\">");
+write("<div id=\"group5\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:847.02px;\" coordsize=\"950.00,847.02\">");
+write("<div id=\"rect5\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:847.02px;\">");
 write("<img id=\"img5\" name=\"PrtImgId\" src=\"../img/25_3.0_jpn_15145861_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:847.02px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p5_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:11.113697px;top:14.003307px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\"><img id=\"gi5\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00012.png\"></img></font></nobr>");
 write("</p>");
@@ -60,5 +60,5 @@ write("</p>");
 write("<p id=\"p5_19\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:139.702117px;top:63.126913px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Кронштейн переднего крыла A<br>[1.0] 270</font></nobr>");
 write("</p>");
-write("</v:group>");
+write("</div>");
 }

@@ -1,8 +1,8 @@
 with(document) {
-write("<v:group id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:546.07px;\" coordsize=\"950.00,546.07\">");
-write("<v:rect id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:546.07px;\">");
+write("<div id=\"group1\"  name=\"PrtGrpId\" class=\"drag\" style=\"position:relative; width:950.00px; height:546.07px;\" coordsize=\"950.00,546.07\">");
+write("<div id=\"rect1\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" style=\"width:950.00px;height:546.07px;\">");
 write("<img id=\"img1\" name=\"PrtImgId\" src=\"../img/106_2.0_jpn_15145738_2.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:546.07px;border-color:#ffffff\">");
-write("</v:rect>");
+write("</div>");
 write("<p id=\"p1_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:13.986068px;top:3.167216px;font-weight:normal;font-size:4.5pt;color:black;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\">");
 write("<nobr><font style=\"font-weight:normal;\">Единица измерения: мм/φ: указывает диаметр отверстия</font></nobr>");
 write("</p>");
@@ -641,5 +641,5 @@ write("<v:fill on=\"true\" color=\"black\"/>");
 write("<v:path textpathok=\"true\"/>");
 write("<v:textpath id=\"tp1_43\" name=\"PrtTpId\" class=\"drag\" on=\"true\" string=\"474\" style=\"font-family:Arial;text-align:left;font-weight:small;font-size:4.5pt;\" prt_font_size=\"5.8pt\" disp_font_size=\"4.5pt\"/>");
 write("</v:line>");
-write("</v:group>");
+write("</div>");
 }
