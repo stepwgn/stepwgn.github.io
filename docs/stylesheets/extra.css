@@ -124,10 +124,17 @@ div.bc-menu {
 
 #divBody {
     overflow-x: auto;
-    min-height: 100vh;
 }
 
 p[name="PrtPId"] {
     line-height: 1;
     margin: 0;
+}
+
+.ViewerTD {
+    border:1px var(--md-typeset-table-color);
+}
+
+.ViewerTH {
+    border:1px var(--md-typeset-table-color);
 }
