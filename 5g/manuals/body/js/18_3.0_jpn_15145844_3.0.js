@@ -7,7 +7,7 @@ write("<p id=\"p101_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute
 write("<nobr>Номер двигателя</nobr>");
 write("</p>");
 write("<p id=\"p101_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:292.203052px;top:397.954756px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>CVT No.</nobr>");
+write("<nobr>Трансмиссия (CVT No.)</nobr>");
 write("</p>");
 write("</div>");
 }

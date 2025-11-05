@@ -7,7 +7,7 @@ write("<p id=\"p3_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>Корпус демпфера</nobr>");
 write("</p>");
 write("<p id=\"p3_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:299.468490px;top:20.036856px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Верхнее<br>расширение рулевой рубки</nobr>");
+write("<nobr>Верхний<br>усилитель колесной арки</nobr>");
 write("</p>");
 write("</div>");
 }
