@@ -22,10 +22,10 @@ write("<p id=\"p3_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>A</nobr>");
 write("</p>");
 write("<p id=\"p3_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:333.584537px;top:7.130619px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Крутящий момент 2,9－5,9 Н·м (0,30－0,60 кгс·м)</nobr>");
+write("<nobr>Крутящий момент<br/>2,9－5,9 Н·м (0,30－0,60 кгс·м)</nobr>");
 write("</p>");
-write("<p id=\"p3_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:14.793829px;top:485.318952px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Крутящий момент 4,0-10Н·м (0,41-1,0кгс·м)</nobr>");
+write("<p id=\"p3_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:0px;top:485.318952px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
+write("<nobr>Крутящий момент<br/>4,0-10Н·м (0,41-1,0кгс·м)</nobr>");
 write("</p>");
 write("</div>");
 }

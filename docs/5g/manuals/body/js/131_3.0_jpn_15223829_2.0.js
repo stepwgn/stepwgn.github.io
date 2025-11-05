@@ -13,7 +13,7 @@ write("<p id=\"p2_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr><img id=\"gi2\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00006.png\"></img></nobr>");
 write("</p>");
 write("<p id=\"p2_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:227.835754px;top:271.189617px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Верхний элемент переднего колеса</nobr>");
+write("<nobr>Верхний элемент<br>переднего колеса</nobr>");
 write("</p>");
 write("<p id=\"p2_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:224.946127px;top:79.022670px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Передняя стойка<br>Верхнее ребро жесткости<br>(1500МПа)</nobr>");
@@ -46,7 +46,7 @@ write("<p id=\"p2_14\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;
 write("<nobr>Передняя стойка <br>Верхнее ребро жесткости<br>(1500МПа)</nobr>");
 write("</p>");
 write("<p id=\"p2_15\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:362.203431px;top:255.296111px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя внутренняя верхняя часть <br>укрепления</nobr>");
+write("<nobr>Передняя внутренняя<br>верхняя часть укрепления</nobr>");
 write("</p>");
 write("<p id=\"p2_16\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:565.922166px;top:198.946404px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Передняя внутренняя <br> средняя стойка</nobr>");
