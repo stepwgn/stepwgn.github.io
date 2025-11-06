@@ -16,7 +16,7 @@ write("<p id=\"p1_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr><img id=\"gi1\" style=\"height:14px;\" src=\"../img/symbol/Gaiji00007.png\"></img></nobr>");
 write("</p>");
 write("<p id=\"p1_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:28.451460px;top:34.230627px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Компания по еде</nobr>");
+write("<nobr>Капот</nobr>");
 write("</p>");
 write("<p id=\"p1_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:45.789225px;top:61.682016px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Кожа<br>[0.65] 340, Zn<br>Рамка<br>[0.5] 270, Zn</nobr>");
