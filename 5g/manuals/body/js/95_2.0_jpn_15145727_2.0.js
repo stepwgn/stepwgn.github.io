@@ -7,7 +7,7 @@ write("<p id=\"p1_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>0.65</nobr>");
 write("</p>");
 write("<p id=\"p1_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:123.862312px;top:31.354437px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Еда</nobr>");
+write("<nobr>Капот</nobr>");
 write("</p>");
 write("<p id=\"p1_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:223.597595px;top:131.090436px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Переднее <br>крыло</nobr>");
@@ -28,7 +28,7 @@ write("<p id=\"p1_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>5.0</nobr>");
 write("</p>");
 write("<p id=\"p1_9\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:47.254045px;top:209.144711px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Еда</nobr>");
+write("<nobr>Капот</nobr>");
 write("</p>");
 write("<p id=\"p1_10\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:187.461615px;top:261.180872px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Переднее <br>крыло</nobr>");

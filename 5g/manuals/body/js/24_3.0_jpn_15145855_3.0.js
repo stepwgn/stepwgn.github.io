@@ -4,7 +4,7 @@ write("<div id=\"rect3\" name=\"PrtRectId\"class=\"drag\" strokecolor=\"white\" 
 write("<img id=\"img3\" name=\"PrtImgId\" src=\"../img/24_3.0_jpn_15145855_3.0.png\" border=\"1\" class=\"drag\" style=\"position:absolute;left:0px;top:0px;width:950.00px;height:928.24px;border-color:#ffffff\">");
 write("</div>");
 write("<p id=\"p3_1\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:81.909569px;top:289.963605px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>8x1,25 мм<br>Крутящий момент 22 Н·м<br>(2,2 кгс·м)</nobr>");
+write("<nobr>8x1,25 мм<br>Крутящий момент<br>22 Н·м (2,2 кгс·м)</nobr>");
 write("</p>");
 write("<p id=\"p3_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:135.367680px;top:496.572618px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Набор батарей<br>База</nobr>");
@@ -13,10 +13,10 @@ write("<p id=\"p3_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>Передний бампер<br>балка</nobr>");
 write("</p>");
 write("<p id=\"p3_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:32.785901px;top:574.592775px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>8x1,25 мм<br>Крутящий момент 22 Н·м<br>(2,2 кгс·м)</nobr>");
+write("<nobr>8x1,25 мм<br>Крутящий момент<br>22 Н·м (2,2 кгс·м)</nobr>");
 write("</p>");
 write("<p id=\"p3_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:574.591050px;top:94.913175px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>6x1,0 мм<br>Крутящий момент 9,3 Н·м<br>(0,95 кгс·м)</nobr>");
+write("<nobr>6x1,0 мм<br>Крутящий момент<br>9,3 Н·м (0,95 кгс·м)</nobr>");
 write("</p>");
 write("<p id=\"p3_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:398.323774px;top:3.889636px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Правая сторона Усиление амортизатора</nobr>");
@@ -25,16 +25,16 @@ write("<p id=\"p3_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>Левая сторона<br>Усиление амортизатора</nobr>");
 write("</p>");
 write("<p id=\"p3_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:229.280573px;top:814.432604px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>8x1,25 мм<br>Крутящий момент 22 Н·м<br>(2,2 кгс·м)</nobr>");
+write("<nobr>8x1,25 мм<br>Крутящий момент<br>22 Н·м (2,2 кгс·м)</nobr>");
 write("</p>");
 write("<p id=\"p3_9\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:788.423468px;top:821.656682px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>Автомобили с электрическими раздвижными дверями</nobr>");
 write("</p>");
 write("<p id=\"p3_10\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:625.159528px;top:727.743490px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>6x1,0 мм<br>Крутящий момент 9,3 Н·м<br>(0,95 кгс·м)</nobr>");
+write("<nobr>6x1,0 мм<br>Крутящий момент<br>9,3 Н·м (0,95 кгс·м)</nobr>");
 write("</p>");
 write("<p id=\"p3_11\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:665.614312px;top:859.221934px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>6x1,0 мм<br>Крутящий момент 9,3 Н·м<br>(0,95 кгс·м)</nobr>");
+write("<nobr>6x1,0 мм<br>Крутящий момент<br>9,3 Н·м (0,95 кгс·м)</nobr>");
 write("</p>");
 write("</div>");
 }
