@@ -19,7 +19,7 @@ write("<p id=\"p2_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>a:<br><br>b:</nobr>");
 write("</p>");
 write("<p id=\"p2_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:298.631627px;top:37.120544px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Кожа<br>[0,75] 340, Zn<br>Панели:<br>Передняя [1,2] 270, Zn<br>Задняя [0,65] 270, Zn</nobr>");
+write("<nobr>Лицевая панель<br>[0,75] 340, Zn<br>Панели:<br>Передняя [1,2] 270, Zn<br>Задняя [0,65] 270, Zn</nobr>");
 write("</p>");
 write("<p id=\"p2_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:508.129616px;top:318.860787px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>б, сзади</nobr>");
@@ -31,7 +31,7 @@ write("<p id=\"p2_9\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>a:<br><br>b:</nobr>");
 write("</p>");
 write("<p id=\"p2_10\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:632.383596px;top:37.120544px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Кожа<br>[0,75] 340, Zn<br>Панель<br>[0,65] 270, Zn</nobr>");
+write("<nobr>Лицевая панель<br>[0,75] 340, Zn<br>Панель<br>[0,65] 270, Zn</nobr>");
 write("</p>");
 write("<p id=\"p2_11\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:857.774537px;top:154.151106px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>a</nobr>");
