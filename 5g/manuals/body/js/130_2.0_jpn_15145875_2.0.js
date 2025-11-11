@@ -10,7 +10,7 @@ write("<p id=\"p1_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>φ8.0mm</nobr>");
 write("</p>");
 write("<p id=\"p1_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:187.997455px;top:234.504583px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
-write("<nobr>Около 10 мм</nobr>");
+write("<nobr>~ 10 мм</nobr>");
 write("</p>");
 write("<p id=\"p1_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:4.065293px;top:12.571647px;font-weight:normal;font-size:11.2pt;color:black;\" prt_font_size=\"12.3pt\" disp_font_size=\"11.2pt\">");
 write("<nobr>φ: Диаметр отверстия</nobr>");
