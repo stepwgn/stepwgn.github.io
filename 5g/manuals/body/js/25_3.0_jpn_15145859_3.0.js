@@ -79,7 +79,7 @@ write("<p id=\"p3_25\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;
 write("<nobr>Комплект передней рулевой рубки</nobr>");
 write("</p>");
 write("<p id=\"p3_26\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:50.123666px;top:808.655605px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя переборка боковая стойка <br>[1.2] 270<br>Передняя переборка верхняя центральная рама <br>[1.6] 270<br>Передняя переборка верхняя боковая рама <br>[1.0] 270<br>Интеркулер нижняя монтажная накладка [ 1.2] 270<br>Защитная пластина передней перегородки [0.6] 270, Zn<br>Нижняя поперечина передней перегородки [0.6] 440<br>Пластина нижней поперечины передней перегородки <br> [0.6] 440<br>Нижнее крепление радиатора стойка [0,6] 440<br>Сторонняя стойка переборки, центральная пластина <br>[1,2] 270</nobr>");
+write("<nobr>Рамка радиатора, боковая стойка <br>[1.2] 270<br>Рамка радиатора, верхняя центральная балка<br>[1.6] 270<br>Рамка радиатора, верхняя боковая балка<br>[1.0] 270<br>Интеркулер нижняя монтажная накладка [ 1.2] 270<br>Защитная пластина рамки радиатора [0.6] 270, Zn<br>Нижняя поперечина рамки радиатора [0.6] 440<br>Пластина нижней поперечины рамки радиатора<br> [0.6] 440<br>Нижнее крепление радиатора стойка [0,6] 440<br>Сторонняя стойка переборки, центральная пластина <br>[1,2] 270</nobr>");
 write("</p>");
 write("<p id=\"p3_27\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:32.785901px;top:808.655605px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
 write("<nobr>a:<br><br>b:<br><br>c:<br><br>d:<br>e:<br>f:<br>g:<br><br>h:<br>j:</nobr>");
@@ -115,7 +115,7 @@ write("<p id=\"p3_37\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;
 write("<nobr>Передняя рулевая рубка<br>[0.6] 270</nobr>");
 write("</p>");
 write("<p id=\"p3_38\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:45.789225px;top:366.540015px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя переборка</nobr>");
+write("<nobr>Рамка радиатора</nobr>");
 write("</p>");
 write("</div>");
 }
