@@ -10,22 +10,22 @@ write("<p id=\"p2_2\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;l
 write("<nobr>Крепежные болты (4)<br>8x1,25 мм</nobr>");
 write("</p>");
 write("<p id=\"p2_3\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:573.146211px;top:240.839592px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя <br>боковая рама</nobr>");
+write("<nobr>Передняя<br>боковая балка</nobr>");
 write("</p>");
 write("<p id=\"p2_4\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:67.461429px;top:83.354559px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя <br> Переборка <br> Верхняя боковая рама</nobr>");
+write("<nobr>Рамка радиатора<br>Верхняя боковая балка</nobr>");
 write("</p>");
 write("<p id=\"p2_5\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:44.344410px;top:174.378019px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя <br> Переборка <br> Боковые стойки </nobr>");
+write("<nobr>Рамка радиатора<br>Стойки боковин</nobr>");
 write("</p>");
 write("<p id=\"p2_6\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:9.668882px;top:253.842943px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя часть <br> Переборка <br> Боковая стойка <br> Центральная пластина</nobr>");
+write("<nobr>Рамка радиатора<br>Стойка боковины<br>Центральная пластина</nobr>");
 write("</p>");
 write("<p id=\"p2_7\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;left:83.354379px;top:570.257827px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя переборка <br>Защитная пластина</nobr>");
+write("<nobr>Рамка радиатора<br>Защитная пластина</nobr>");
 write("</p>");
 write("<p id=\"p2_8\" name=\"PrtPId\" class=\"drag\" style=\"position:absolute;background-color:#ffffff;left:766.751242px;top:113.695712px;font-weight:normal;font-size:10.5pt;color:black;\" prt_font_size=\"11.6pt\" disp_font_size=\"10.5pt\">");
-write("<nobr>Передняя перегородка<br> кронштейн</nobr>");
+write("<nobr>Кронштейн рамки радиатора</nobr>");
 write("</p>");
 write("</div>");
 }
